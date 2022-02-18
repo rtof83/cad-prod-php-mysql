@@ -1,4 +1,4 @@
-# Teste de Logica - Promobit
+# Teste de Lógica - Promobit
 
 ## solução
 - [ProductStructureTest.php](https://github.com/rtof83/cad-prod-php-mysql/blob/main/teste-logica/src/ProductStructure.php)
